@@ -3,7 +3,9 @@ architecture
 
 ## functional requirement
 
-The company want to extract the sub_skills by theme skills of a resume by semantic analysis. The theme skills are defined by the user accross the interface for the defaut sub-skills.
+The company want to extract the sub_skills by theme skills of a resume by semantic analysis and compare to position. 
+The goal is to understand the is the resume fir the position on the skills approach.
+The theme skills are defined by the user accross the interface for the defaut sub-skills.
 Also in function of the resume the user can define accross interface new theme subskills.
 the number subskills must be 5 by theme skills.
 
